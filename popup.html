@@ -35,7 +35,6 @@
 			text-align: left;
 		}
                 
-        /* toggle in label designing */ 
         .toggle { 
             position : relative ; 
             display : inline-block; 
@@ -46,7 +45,6 @@
             border: 2px white; 
         } 
                 
-        /* After slide changes */ 
         .toggle:after { 
             content: ''; 
             position: absolute; 
@@ -58,25 +56,21 @@
             left: 1px; 
             transition:  all 0.5s; 
         } 
-                
-        /* Toggle text */ 
+
         p { 
             font-family: Arial, Helvetica, sans-serif; 
             font-weight: bold; 
 			color: white;
         } 
                 
-        /* Checkbox cheked effect */ 
         .checkbox:checked + .toggle::after { 
             left : 49px;  
         } 
-                
-        /* Checkbox cheked toggle label bg color */ 
+
         .checkbox:checked + .toggle { 
             background-color: green; 
         } 
                 
-        /* Checkbox vanished */ 
         .checkbox {  
             display : none; 
         } 
@@ -100,7 +94,7 @@
     <section>
         <div id="title">
             <img width="32px" src="notpinterested128.png"/>
-            <br/> Not Pinterested for Ecosia
+            <br/> NotPinterested for Ecosia
         </div>
     </section>
 
