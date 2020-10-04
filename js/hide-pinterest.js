@@ -20,10 +20,10 @@
 
     function hidePinterest() {
         if (!isDisabled) {
-            var results = document.querySelectorAll(".image-data");
+            let results = document.querySelectorAll(".image-data");
 
             for (let i = 0; i < results.length; i++) {
-                el = results[i].closest(resultClass);
+                let el = results[i].closest(resultClass);
                 if (el.href.includes(searchText)) {
                     el.style.display = "none";
                 }
