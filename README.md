@@ -30,10 +30,12 @@ None, zilch, zip, nada. You can check the code for yourself. The extension uses 
 
 I realise that my audience for this extension is vanishingly small. After all, Ecosia is still quite a niche search engine, although I hope more people start using it.
 
-If you are in the "Uses Ecosia, but doesn't have a Pinterest account" club, and this extension makes your life a little bit easier, then I always accept a coffee.
-<a href="https://www.buymeacoffee.com/mattrudge" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="width: 180px !important;" ></a>
+If you are in the "Uses Ecosia, but doesn't have a Pinterest account" club, and this extension makes your life a little bit easier, then I always accept an oat milk cappuccino.
 
 If you're not yet in this exclusive club, then could I at least encourage you to use Ecosia as your preferred search engine?
+
+<a href="https://www.buymeacoffee.com/mattrudge" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="width: 180px !important;" ></a>
+
 ------
 Matt Rudge<br />
 October, 2020
