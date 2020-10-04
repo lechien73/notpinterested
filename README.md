@@ -34,7 +34,7 @@ If you are in the "Uses Ecosia, but doesn't have a Pinterest account" club, and 
 
 If you're not yet in this exclusive club, then could I at least encourage you to use Ecosia as your preferred search engine?
 
-<a href="https://www.buymeacoffee.com/mattrudge" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="width: 180px !important;" ></a>
+<a href="https://www.buymeacoffee.com/mattrudge" target="_blank"><img src="https://mattrudge.net/images/bmac.png" alt="Buy Matt A Coffee"></a>
 
 ------
 Matt Rudge<br />
