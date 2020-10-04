@@ -18,7 +18,7 @@ No.
 
 ## It's not working!
 
-Oh, ok. I'm sorry about that. Please open an issue here on GitHub, and I'll take a look. The code itself is very straightforward, so if you know what's wrong, feel free fix it and create a Pull Request.
+Oh, ok. I'm sorry about that. Please <a href="https://github.com/lechien73/notpinterested/issues" target="_blank">open an issue here on GitHub</a>, and I'll take a look. The code itself is very straightforward, so if you know what's wrong, feel free <a href="https://github.com/lechien73/notpinterested/" target="_blank">fork the repo</a>, fix it and create a Pull Request.
 
 Please note that the extension is provided "as-is". No warranty or guarantee regarding suitability or compatibility is given. Use it at your own risk, and let's hope that when they announce that the world is ending, it's not in the form of a Pinterest image!
 
@@ -32,10 +32,10 @@ I realise that my audience for this extension is vanishingly small. After all, E
 
 If you are in the "Uses Ecosia, but doesn't have a Pinterest account" club, and this extension makes your life a little bit easier, then I always accept an oat milk cappuccino.
 
-If you're not yet in this exclusive club, then could I at least encourage you to use Ecosia as your preferred search engine?
+If you're not yet a member of this exclusive club, then could I at least encourage you to use <a href="https://ecosia.org" target="_blank">Ecosia</a> as your preferred search engine? Thanks!
 
 <a href="https://www.buymeacoffee.com/mattrudge" target="_blank"><img src="https://mattrudge.net/images/bmac.png" alt="Buy Matt A Coffee"></a>
 
 ------
-Matt Rudge<br />
+<a href="https://mattrudge.net" target="_blank">Matt Rudge</a><br />
 October, 2020
