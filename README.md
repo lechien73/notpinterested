@@ -2,7 +2,7 @@
 
 ## What?
 
-NotPinterested is a Chrome Extension, which removes Pinterest content from <a href="https://ecosia.org" target="_blank">Ecosia</a> image search results.
+NotPinterested is a Chrome Extension, which removes Pinterest content from <a href="https://ecosia.org" target="_blank">Ecosia</a> image search results. You can get it from the Chrome Web Store <a href="https://chrome.google.com/webstore/detail/notpinterested-for-ecosia/ljgfjpadcmblnlbfogkdbmgbmkolfocp" target="_blank">right here.</a>
 
 ## Why?
 
