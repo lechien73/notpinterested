@@ -26,6 +26,10 @@ Please note that the extension is provided "as-is". No warranty or guarantee reg
 
 None, zilch, zip, nada. You can check the code for yourself. The extension uses a teeny bit of storage in your browser so it knows whether it's switched on or off, but that's all. There's a <a href="https://mattrudge.net/privacy.html" target="_blank">funky privacy policy</a> too if you're still unconvinced.
 
+## Updates
+
+4th February, 2021 - Update because Ecosia had changed their CSS
+
 ## Anything else?
 
 I realise that my audience for this extension is vanishingly small. After all, Ecosia is still quite a niche search engine, although I hope more people start using it.

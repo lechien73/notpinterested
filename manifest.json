@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "NotPinterested for Ecosia",
     "description": "Remove Pinterest images from Ecosia image search results",
-    "version": "0.80",
+    "version": "0.85",
     "browser_action": {
         "default_icon": "notpinterested128.png",
         "default_popup": "popup.html",
